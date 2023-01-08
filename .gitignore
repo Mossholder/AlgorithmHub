@@ -1,0 +1,10 @@
+# vs-code
+*.code-workspace
+
+# java
+*.class
+Main.java
+
+# cpp
+*.exe
+main.cpp
